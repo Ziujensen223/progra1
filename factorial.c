@@ -17,6 +17,7 @@ int main(){
   fact= factorial(n);
   printf("el factorial de %d es: %d (base)\n",n,fact);
   printf("escribiendo una nueva linea");
+  printf("escribiendo una nueva linea desde la otra rama");
 
   return 0;
 }
